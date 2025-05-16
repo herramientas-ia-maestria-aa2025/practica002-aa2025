@@ -22,12 +22,14 @@
 
 7. Revisar el contendido de **streamlit_app_001.py**
 
-8. Agregar la información faltante, usted seleccione el modelo que requiera usar del MLflow
+8. Agregar la información faltante en **streamlit_app_001.py**, usted seleccione el modelo que requiera usar del MLflow. Recuerde que en alguna parte de la aplicación de streamlit debe aparecer su nombre
 
 9. Ejecutar el comando
 ```
 streamlit run streamlit_app_001.py
 ```
 Jugar con los valores y revisar la predicción (recuerde que es un ejemplo educativo, los datos pueden ser muy ilógicos)
+
+10. Agregar una captura de pantalla de la ejecución de streamlit, (subir capturas de imágenes que demuestren la ejecución), usar la carpeta **imgs**
 
 10. Subir los cambios realizados al repositorio
